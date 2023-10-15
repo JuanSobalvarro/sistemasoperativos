@@ -1,0 +1,9 @@
+type, time
+lector, 0
+escritor, 1
+escritor, 2
+lector, 3
+escritor, 4
+lector, 5
+lector, 6
+escritor, 7

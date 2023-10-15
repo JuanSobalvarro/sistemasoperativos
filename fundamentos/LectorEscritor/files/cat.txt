@@ -1,0 +1,4 @@
+la mama de la mama de la mama
+
+funcionamiento
+entra un proceso, activa el mutex

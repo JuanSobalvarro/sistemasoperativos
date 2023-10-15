@@ -1,0 +1,2 @@
+lectorescritor: lectorescritor.c
+	gcc -g lectorescritor.c -o lectorescritor -lpthread
